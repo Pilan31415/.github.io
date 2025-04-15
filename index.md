@@ -35,7 +35,7 @@
   - Liceo Bicentenario de Excelencia, Dalcahue.
 - **Intermedia (2024):** Colegio San Pedro Nolasco, Valparaíso.
 - **Final (2025):** Colegio Rubén Castro, Viña del Mar.
-- 
+   
 ---
 
 ## 💡 Habilidades Técnicas
